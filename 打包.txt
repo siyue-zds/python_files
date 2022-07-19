@@ -1,0 +1,6 @@
+# 项目路径
+D:\Python\Files
+# Windows打包
+pyinstaller -F -w  -i=.\interface\icons\files.ico main.py
+# Linux打包
+pyinstaller -F -i=.\interface\icons\files.ico main.py

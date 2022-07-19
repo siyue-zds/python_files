@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/add.ico</file>
+    <file>icons/arrowleft.ico</file>
+    <file>icons/arrowright.ico</file>
+    <file>icons/arrowup.ico</file>
+    <file>icons/copy.ico</file>
+    <file>icons/cut.ico</file>
+    <file>icons/delete.ico</file>
+    <file>icons/details.ico</file>
+    <file>icons/disk_driver.ico</file>
+    <file>icons/file.ico</file>
+    <file>icons/files.ico</file>
+    <file>icons/folder.ico</file>
+    <file>icons/home.ico</file>
+    <file>icons/more.ico</file>
+    <file>icons/paste.ico</file>
+    <file>icons/pc.ico</file>
+    <file>icons/refrech.ico</file>
+    <file>icons/rename.ico</file>
+    <file>icons/search.ico</file>
+    <file>icons/setting.ico</file>
+    <file>icons/sorting.ico</file>
+    <file>icons/text_copy.ico</file>
+  </qresource>
+</RCC>
